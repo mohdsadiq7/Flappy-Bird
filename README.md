@@ -13,4 +13,5 @@ If you want to use this Project further follow the steps :
 # A look of the game is given below
 ![](images/img1.png)
 
+Scores will be updated as and then.
 *Play and have Fun :)*
